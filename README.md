@@ -4,7 +4,7 @@ This repository includes a project to analyze the sales of several games in diff
 The main purpose of this project is to understand sales performance for each game. I will carry out several steps that are going to show us the sales for region, for genre, for platform, etc.
 # Methodology
 **Data cleaning:** <br> 
-In order to get cleaner data to be analyzed, I started to clean de column names, because they included under scores, spaces and some others characters. Also I converted the data for the columns "year_of_release" to
+In order to get cleaner data to be analyzed, I started to clean the column names, because they included under scores, spaces and some others characters. Also I converted the data for the columns "year_of_release" to
 Int 64 and "user_score" to numeric data. Another important step was to create a new column called "total_sales" which includes the total sales for each game in all the regions. <br>
 **Exploratory analysis:** <br>
 As part of the analysis, I started creating a graphic that shows the total of the games released every year. Another important point to remark is the total sales for the PS2, because this game reached 1,200 millions
